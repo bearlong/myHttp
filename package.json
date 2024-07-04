@@ -8,7 +8,7 @@
     "dev": "nodemon index.mjs Bear a86774546@gmail.com"
   },
   "keywords": [],
-  "author": "",
+  "author": "BearShen",
   "license": "ISC",
   "description": "",
   "dependencies": {
